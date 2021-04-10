@@ -8,3 +8,4 @@ public enum FiringMode {
   SINGLE, ALL
 }
 //Feladathoz változtatás
+
